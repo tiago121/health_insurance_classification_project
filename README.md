@@ -6,7 +6,7 @@
 
 # Descrição
 
-O projeto tem como objetivo rankear os clientes com mais propensão de compra, usando dados e algoritmos de machine learning, de forma a oferecer informações para decisões de negócio.
+O projeto tem como objetivo rankear os clientes com mais propensão de compra, usando dados e algoritmos de Machine Learning, de forma a oferecer informações para decisões de negócio.
 
 # 1. Problema de negócio
 
@@ -128,9 +128,9 @@ R: 20.000 chamadas representam 26,24% do nosso banco de dados. Portanto, se a eq
 
 R: 40.000 chamadas representam 52,48% do nosso banco de dados. Nesse caso, se a equipe de vendas fizesse todas essas ligações, a seguradora conseguiria entrar em contato com 99,48% dos clientes interessados no seguro de veículos novos. O valor de 0,9948 é o nosso recall em 40.000.
 
-**3) Qual o retorno sobre o investimento(ROI)
+**3) Qual o retorno sobre o investimento(ROI)**
 
-O ROI segue a curva abaixo, de acordo com o custo e a receita que o negócio pode assumir.
+R: o ROI segue a curva abaixo, de acordo com o custo e a receita que o negócio pode assumir.
 
 ![image](https://user-images.githubusercontent.com/88745881/206486621-2da95845-c1d0-4ee6-8e52-5dfb58d087ae.png)
 
@@ -145,6 +145,6 @@ O ROI segue a curva abaixo, de acordo com o custo e a receita que o negócio pod
 # 6. Próximos passos
 
 
-1. Colocar o modelo em um ambiente de produção que seja escalável
-2. Usar outros algoritmos que posssam melhorar a performance
+1. Colocar o modelo em um ambiente de produção que seja escalável.
+2. Usar outros algoritmos que posssam melhorar a performance.
 
