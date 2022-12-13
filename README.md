@@ -93,7 +93,7 @@ Processo: Uso do resultado do modelo para gerar métricas como ROI e ganho acumu
 
 # 3. Avaliação dos modelos
 
-A etapa de machine learning onde a modelagem de ML é realizada. Cinco modelos foram treinados usando validação cruzada:
+A etapa de machine learning onde a modelagem de ML é realizada. Três modelos foram treinados usando validação cruzada:
 
 * K-nearest neighbors
 * Logistic regression
