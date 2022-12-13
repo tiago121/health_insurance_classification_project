@@ -21,9 +21,9 @@ Link: https://www.kaggle.com/datasets/anmolkumar/health-insurance-cross-sell-pre
 
 **Etapa 02. Feature Engineering:**
 
-Objetivo: 
+Objetivo: para facilitar a análise e descobrir novos insights.
 
-Processo: mudanças no nome de variáveis vehicle_damage e vehicle_age para facilitar a análise.
+Processo: mudanças no nome de variáveis vehicle_damage e vehicle_age. 
 
 **Etapa 04. EDA:**
 
