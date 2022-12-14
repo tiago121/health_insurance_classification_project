@@ -33,8 +33,6 @@ Objetivo: ganhar entendimento intuitivo dos dados
 
 Processo: série de análises entre as variáveis ( uni, bi e multi variadas) com o objetivo de encontrar padrões interessantes. 
 
-Top 3 insights: [mostrar insights]
-
 Pacotes usados: Seaborn, Matplotlib e Pandas
 
 **Etapa 04. Preparação dos dados:**
@@ -118,7 +116,22 @@ A etapa de machine learning onde a modelagem de ML é realizada. Três modelos f
 
 ![image](https://user-images.githubusercontent.com/88745881/206483935-24e37a52-b7df-4228-88a3-5d698f74e433.png)
 
-# 4. Resultado de Negócio
+# 4. Top Insights
+
+1. Homens são mais propensos a adquirir seguros
+
+![image](https://user-images.githubusercontent.com/88745881/207601717-2c6ab3eb-088b-435e-b24f-687082730238.png)
+
+2. A idade influencia o interesse no seguro, mas de forma não linear; os mais propensos são pessoas entre 40 a 50 anos; os menos são idosos.
+
+![image](https://user-images.githubusercontent.com/88745881/207602935-60388c9f-b08e-4d07-99d2-fb7c0ded7176.png)
+
+3. A região influecia o interesse
+
+![image](https://user-images.githubusercontent.com/88745881/207603353-c64b91ea-5038-44a0-b4a2-610d0e8a1a1e.png)
+
+
+# 5. Resultado de Negócio
 
 Dentre os 76.622 cliente, um total de 9.342 estão interessados no seguro de veículos. O ticket médio para um seguro de saúde anual é de $ 31669. As perguntas abaixo foram respondidas seguindo a premissa de que os clientes interessados no seguro veicular irão assinar o contrato, e que o valor médio do seguro do veículos será o mesmo do seguro saúde.
 
@@ -137,14 +150,14 @@ R: o ROI segue a curva abaixo, de acordo com o custo e a receita que o negócio 
 ![image](https://user-images.githubusercontent.com/88745881/206486621-2da95845-c1d0-4ee6-8e52-5dfb58d087ae.png)
 
 
-# 5. Conclusão
+# 6. Conclusão
 
 * Com base nos resultados comerciais, a seguradora passa a ter uma vantagem competitiva sobre seus concorrentes, reduzindo o custo de aquisição de clientes e aumentando sua receita.
 * A equipe de vendas pode focar sua atenção nos primeiros 20.000 ou 40.000 clientes da lista e, no futuro, focar nos primeiros K clientes da nova lista.
 * Insights foram revelados e com os resultados obtidos é possível simular perfis de clientes, funcionalidade de grande valia para a empresa.
 
 
-# 6. Próximos passos
+# 7. Próximos passos
 
 
 1. Colocar o modelo em um ambiente de produção que seja escalável.
