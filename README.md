@@ -20,13 +20,14 @@ A seguradora fictícia Cuidado Seguros gostaria de aumentar a receita anual por 
 Os dados são da plataforma Kaggle e podem ser classificados em demográficos do consumidor (gênero, ano, região), características do veículo (ano, estado de conservação) e de marketing (canal de contato).
 Link: https://www.kaggle.com/datasets/anmolkumar/health-insurance-cross-sell-prediction
 
+
 **Etapa 02. Feature Engineering:**
 
 Objetivo: para facilitar a análise e descobrir novos insights.
 
 Processo: mudanças no nome de variáveis vehicle_damage e vehicle_age. 
 
-**Etapa 04. EDA:**
+**Etapa 03. EDA:**
 
 Objetivo: ganhar entendimento intuitivo dos dados
 
@@ -36,7 +37,7 @@ Top 3 insights: [mostrar insights]
 
 Pacotes usados: Seaborn, Matplotlib e Pandas
 
-**Etapa 05. Preparação dos dados:**
+**Etapa 04. Preparação dos dados:**
 
 Objetivo: preparar os dados para o treinamento de modelos
 
@@ -53,7 +54,7 @@ Processos:
 Pacotes usados: Pandas e Sklearn
 
 
-**Etapa 06. Seleção de Features:**
+**Etapa 05. Seleção de Features:**
 
 Objetivo: selecionar as melhores features para treinar o modelo
 
@@ -65,7 +66,7 @@ b) Seleção das feateures mais importantes
 
 Pacotes usados: Boruta, Sklearn
 
-**Etapa 07. Treinamento de modelos Machine Learning:**
+**Etapa 06. Treinamento de modelos Machine Learning:**
 
 Objetivo: Treinar e avaliar a performance dos modelos nos dados de validação
 
@@ -77,7 +78,7 @@ Ferramenta de visualização: Curva comparativa de ganho acumulado
 
 Pacotes usados: Scikitplot e Sklearn 
 
-**Etapa 08. Fine Tunning:**
+**Etapa 07. Fine Tunning:**
 
 Objetivo: ajustar parâmentros do modelo para otimizar a performance
 
@@ -85,7 +86,7 @@ Processo: Uso do algoritmo Random Search
 
 Pacotes usados: Sklearn
 
-**Etapa 09. Tradução para métricas de negócio:**
+**Etapa 08. Tradução para métricas de negócio:**
 
 Objetivo: Traduzir as informações em linguagem simples para ser apresentada ao time de negócio
 
