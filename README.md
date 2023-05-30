@@ -70,7 +70,7 @@ Objetivo: Treinar e avaliar a performance dos modelos nos dados de validação
 
 Modelos treinados: K-Nearest Neighbors (KNN), Regressão Logística, Extra Trees Classifier, Random Forest
 
-Seleção do modelo com melhor performance/menos custo computacional: [falar qual o modelo]
+Seleção do modelo com melhor performance/menos custo computacional: 
 
 Ferramenta de visualização: Curva comparativa de ganho acumulado
 
